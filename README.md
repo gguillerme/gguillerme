@@ -45,20 +45,20 @@ Atualmente, atuo na arquitetura e implantação de ecossistemas **BMC Helix**, u
 
 ## 📈 Marcos de Evolução Profissional
 
-### 🔹 2025 - Atual: AIOps & DevOps Consolidation (Icatu / Randoncorp)
+### 🔹 2025 - Atual: AIOps & DevOps Consolidation (Clientes: Icatu / Randoncorp)
 *Foco: BMC Helix AIOps, Service Modeling & Containerização.*
 * **Service Monitoring:** Criação de *Blueprints* de Serviço complexos para correlacionar infraestrutura e impacto de negócio.
 * **Análise Preditiva:** Implementação de modelos para Análise de Causa Provável (PCA).
 * **Engenharia SRE:** Desenvolvimento de automações em Python, uso de Docker Compose e configuração de Nginx como Reverse Proxy.
 
-### 🔹 2024 - O Salto para Engenharia (Middleware Architecture)
+### 🔹 2024 - O Salto para Engenharia (Clientes: Nokia / TIM)
 *Foco: Python Multithreading, Kafka & Gestão de Estado.*
-Desenvolvi uma solução crítica de middleware (`nsp_cache_component`) para resolver limitações de correlação na gerência Nokia NSP:
+Desenvolvi uma solução crítica de middleware para resolver limitações de correlação na gerência Nokia NSP:
 * **Stateful Cache:** Interceptação e enriquecimento de eventos utilizando Oracle DB.
 * **Alta Performance:** Processamento de 20-30 eventos/seg com *Python Multithreading* (20 threads) e baixa latência (~450ms).
 * **Integração Híbrida:** Uso de Websockets e Kafka com SSL.
 
-### 🔹 2023 - 2024: A Fundação em Telecom (Netcool)
+### 🔹 2023 - 2024: A Fundação em Telecom Netcool (Clientes: TIM)
 *Foco: Protocolos de Rede, Normalização & Vendor Management.*
 * Domínio de protocolos (SNMP, CORBA, Webhooks) integrando vendors massivos (Huawei, Nokia, Cisco).
 * Normalização de dados heterogêneos e regras complexas de deduplicação/supressão.
