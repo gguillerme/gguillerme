@@ -67,8 +67,9 @@ Desenvolvi uma solução crítica de middleware para resolver limitações de co
 
 ## Estatísticas
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gguillerme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguillerme&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gguillerme&show_icons=true&theme=dark&include_all_commits=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gguillerme&layout=compact&theme=dark"/>
 </div>
 
 ---
